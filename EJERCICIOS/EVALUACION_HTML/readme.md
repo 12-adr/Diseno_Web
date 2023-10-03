@@ -6,17 +6,18 @@ Indicaciones: Pedir responder cada una de las preguntas de manera breve y clara.
 Preguntas:
 
 1. ¿Qué es el hipertexto? (valor 1.0)
-
+El hipertexto es texto que contiene enlaces a otros textos.
 2. ¿Qué es la hipermedia? (valor 1.0)
-
+ Es una red o un conjunto de elementos enlazados entre sí que incluye textos, sonidos, imágenes y otros recursos.
 3. ¿Qué características tiene un lenguaje de etiquetas? (valor 1.0)
-
+Permite estructurar un documento mediante el uso de etiquetas
 4. ¿Cuáles son las ventajas que introduce HTML5? (valor 1.0)
-
+Es gratuito, es compatible con los navegadores más populares y es sencillo de comprender.
 5. ¿Cuál es la función del motor de renderizado de un navegador web? (valor 1.0)
-
+Tranformar los archivos HTML en una pagina web con representación visual.
 6. Menciona al menos 2 tecnologías de software para el desarrollo de páginas web y explícalas brevemente (valor 1.0)
-
+Atom tiene una alta capacidad de personalización, así como también diferentes integraciones con herramientas de despliegue.
+Visual Studio Code tiene integraciones sencillas y muchas extensiones, aparte se puede utilizar sin instalar.  
 ## 2. HERRAMIENTAS PARA LA CREACIÓN DE PÁGINAS WEB
 
 Objetivo: Verificar el dominio del concepto de editor de texto y su uso en el diseño de páginas web.
@@ -27,20 +28,21 @@ Preguntas:
 1. Describe al menos 5 características básicas de un editor de texto. (valor 1.0)
 
 2. Menciona al menos 3 editores de texto. Pueden ser tanto comerciales como los preinstalados en algún sistema operativo. (valor 1.0)
+ 
 
-3. ¿Qué extensión debe tener un archivo que contiene el código HTML de una página web? (valor 1.0)
+4. ¿Qué extensión debe tener un archivo que contiene el código HTML de una página web? (valor 1.0)
 
-4. ¿Qué extensión llevan los archivos que contienen instrucciones para aplicar estilos a un documento que contiene el código HTML de una página web? (valor 1.0)
+5. ¿Qué extensión llevan los archivos que contienen instrucciones para aplicar estilos a un documento que contiene el código HTML de una página web? (valor 1.0)
 
-5. ¿Menciona al menos tres formatos de imagen que puedes incorporar dentro del código html5? (valor 1.0)
+6. ¿Menciona al menos tres formatos de imagen que puedes incorporar dentro del código html5? (valor 1.0)
 
-6. Uno de los buenos hábitos para desarrollar nuestra página web es tener en
+7. Uno de los buenos hábitos para desarrollar nuestra página web es tener en
 distintas carpetas distintos tipos de archivo, por ejemplo, los archivos relacionados
 a imágenes en una carpeta, en otra los relacionados a multimedia, en otra a lo
 referente a los estilos (CSS), etc. (valor 1.0)
 
         a) Cierto
-        b) Falso
+        
 
 ## 3. ESTRUCTURA BÁSICA DE UN DOCUMENTO HTML
 
